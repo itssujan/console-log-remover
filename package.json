@@ -15,10 +15,17 @@
     "console",
     "logs"
   ],
-  "author": "Sujan Abraham",
+  "author": {
+    "email": "me@itssujan.com",
+    "name": "Sujan Abraham",
+    "url": "http://itssujan.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/itssujan/remove-console-logs/issues"
   },
-  "homepage": "https://github.com/itssujan/remove-console-logs#readme"
+  "homepage": "https://github.com/itssujan/remove-console-logs#readme",
+  "dependencies": {
+    "falafel": "^2.0.0"
+  }
 }
