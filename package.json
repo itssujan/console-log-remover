@@ -1,0 +1,24 @@
+{
+  "name": "remove-console-logs",
+  "version": "1.0.0",
+  "description": "Utility to remove console.logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itssujan/remove-console-logs.git"
+  },
+  "keywords": [
+    "remove-console-logs",
+    "console",
+    "logs"
+  ],
+  "author": "Sujan Abraham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itssujan/remove-console-logs/issues"
+  },
+  "homepage": "https://github.com/itssujan/remove-console-logs#readme"
+}
